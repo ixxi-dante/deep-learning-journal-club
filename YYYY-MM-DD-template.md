@@ -1,4 +1,4 @@
-# <paper title>
+# \<paper title>
 
 **Authors**:
 
