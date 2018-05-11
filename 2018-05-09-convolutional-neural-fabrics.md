@@ -19,5 +19,5 @@
 ## Further meeting notes
 
 * Keep the scope of the Journal Club to deep learning.
-* Meet once every month, the 2nd Friday of the month, interleaving with the PhD/Postdoc seminar which is the last Friady of every month
+* Meet once every month, the 2nd Friday of the month, interleaving with the PhD/Postdoc seminar which is the last Friday of every month
 * Coordinate with Laetitia each time to get some pizzas and make this lively!
