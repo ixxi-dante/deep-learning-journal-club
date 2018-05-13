@@ -10,6 +10,8 @@
 
 **Journal/Conference**: NIPS
 
+**Slides by the authors**: https://http://lear.inrialpes.fr/~verbeek/talks/ConvolutionalNeuralFabricsPresentation.pdf
+
 ---
 
 **Presenter**: Sébastien Lerique
