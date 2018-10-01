@@ -14,6 +14,6 @@
 
 **Presenter**:
 
-**Slides**: <link to slides, or if no external hosting we'll move all the meeting files into a folder>
+**Slides**: <link to slides>
 
 <anything else worth noting goes underneath here>
