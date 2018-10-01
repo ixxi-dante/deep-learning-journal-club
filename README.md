@@ -12,6 +12,6 @@ The second Friday of each month. It interleaves with the Dante PhD/Postdoc semin
 
 At the [Monod site of the ENS Lyon, 46 allée d'Italie, 69007 Lyon](https://www.openstreetmap.org/way/95144113#map=17/45.72977/4.82708). Usually the IXXI or Physics meeting room, rooms M7.102 or M7.101.
 
-## What's this repo for
+## What is this repo for
 
 For each meeting we add a Markdown file that gives a few details about the paper and the presentation, and what was discussed.
